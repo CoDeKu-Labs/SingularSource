@@ -20,7 +20,7 @@ This section guides you through submitting a bug report. Following these guideli
 This section guides you through submitting an enhancement suggestion, including completely new features and minor improvements to existing functionality. 
 
 - **Check if there's already an existing issue or pull request** related to your suggestion by searching the repository.
-- If not, [open a new issue](https://github.com/[your-repo]/issues/new) with the following information:
+- If not, [open a new issue](https://github.com/CoDeKu-Labs/SingularSource/issues/new) with the following information:
   - Use a clear and descriptive title for the issue.
   - Provide a detailed description of the suggested enhancement.
   - Explain why this enhancement would be useful.
