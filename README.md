@@ -47,7 +47,7 @@ Dive into the detailed explanations and best practices for various DevOps concep
 - [DevOps](concepts/devops/ci-cd)
 - [K8s](concepts/kubernetes/overview.md)
 - [Microservices](concepts/microservices/overview.md)
-- [Infrastructure as Code](concepts/cloud-computing/overview.md)
+- [Cloud Computing](concepts/cloud-computing/overview.md)
 
 ### Contribute
 
