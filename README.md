@@ -18,11 +18,19 @@ In the vast and ever-evolving world of DevOps, finding accurate and concise info
 ## Key Features
 
 - **Solves the Overwhelm of Learning:** Tackles the challenge of learning new concepts by providing a single, reliable source amidst the plethora of available content.
-- **Guidance on Where to Start:** Helps users understand where to begin and what to follow, making the learning journey more structured and less confusing.
+- **Guidance on** **_Where to Start and What to Follow_**: Helps users understand **_where to start and what to follow_**, making the learning journey more structured and less confusing.
+- **No Redundancy:** Ensures that there are no duplicate concepts or conflicting explanations. For example:
+  - **What is DevOps?** 
+    - DevOps is removing obstacles/roadblocks that slow down the delivery process of software.
+    - **We do not keep another concept for 'What is DevOps'.**
+  - **How Microservices Communicate?**
+    - Microservices communicate using lightweight protocols like HTTP/HTTPS, gRPC, or messaging queues.
+    - **We do not keep another article for the same topic or concept.**
 - **Comprehensive Coverage:** From CI/CD to Infrastructure as Code, we cover a wide range of DevOps concepts.
 - **Expert-Reviewed Content:** Collaborations with industry experts to maintain high standards of quality and reliability.
 - **Open Source:** Fully transparent and open to contributions from anyone.
 - **CI/CD Integration:** Automated testing and deployment of content to ensure it's always up-to-date.
+
 
 ## Getting Started
 
