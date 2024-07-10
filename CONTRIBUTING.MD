@@ -1,89 +1,69 @@
-```markdown
 # Contributing to SingularSource
 
-We’re excited to have you contribute to **SingularSource**! Whether you’re looking to add new content, fix bugs, or improve documentation, your help is appreciated. Follow the guidelines below to get started.
+First off, thank you for considering contributing to our project! It's people like you that make our project a community. Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open-source project. In return, they should reciprocate that respect in addressing your issue or assessing patches and features.
 
 ## How to Contribute
 
-### 1. Fork the Repository
+### Reporting Bugs
 
-Fork the repository by clicking the 'Fork' button at the top right of this page to create a copy of the repository on your GitHub account.
+This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
 
-### 2. Clone the Repository
+- **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/[your-repo]/issues).
 
-Clone your forked repository to your local machine:
+- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/[your-repo]/issues/new). Be sure to include:
+  - A descriptive title and summary.
+  - Any relevant logs, screenshots, or links demonstrating the bug.
+  - A step-by-step guide to reproduce the bug.
 
-```sh
-git clone https://github.com/your-username/SingularSource.git
-```
+### Suggesting Enhancements
 
-### 3. Create a Branch
+This section guides you through submitting an enhancement suggestion, including completely new features and minor improvements to existing functionality. 
 
-Create a new branch for your contribution:
+- **Check if there's already an existing issue or pull request** related to your suggestion by searching the repository.
+- If not, [open a new issue](https://github.com/[your-repo]/issues/new) with the following information:
+  - Use a clear and descriptive title for the issue.
+  - Provide a detailed description of the suggested enhancement.
+  - Explain why this enhancement would be useful.
 
-```sh
-git checkout -b feature-name
-```
+### Making Changes
 
-### 4. Make Changes
+1. **Fork the repository** and create your branch from `main`.
+2. **Ensure the project builds and passes all tests**.
+3. **Add your changes**.
+4. **Commit your changes** with clear and descriptive commit messages.
+5. **Push your changes** to your fork.
+6. **Create a pull request** to the main repository.
 
-Make your changes to the project. This can include adding new content, fixing issues, or improving documentation.
+### Pull Request Guidelines
 
-### 5. Commit Your Changes
+- Make sure your code passes all tests.
+- If the pull request adds functionality, update the documentation.
+- The pull request should include tests for the new functionality.
+- Ensure your commit messages are clear and descriptive.
 
-Commit your changes with a clear and concise message:
+## Style Guides
 
-```sh
-git add .
-git commit -m "Description of changes"
-```
+### Code Style
 
-### 6. Push to Your Fork
+- Follow the existing coding style.
+- Use meaningful variable and function names.
+- Write comments where necessary.
 
-Push your changes to your forked repository:
+### Documentation Style
 
-```sh
-git push origin feature-name
-```
+- Use [Markdown](https://www.markdownguide.org/) for documentation.
+- Write clear and concise instructions.
+- Keep the documentation up to date with any code changes.
 
-### 7. Create a Pull Request
+### Git Commit Messages
 
-Open a pull request to the main repository for review. Go to your forked repository, and click the 'New pull request' button.
+- Use the present tense ("Add feature" not "Added feature").
+- Use the imperative mood ("Move cursor to..." not "Moves cursor to...").
+- Limit the first line to 72 characters or less.
+- Reference issues and pull requests liberally after the first line.
 
-## Contribution Guidelines
+## Code of Conduct
 
-### Content Contributions
+This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
-- **Accuracy:** Ensure the information you provide is accurate and well-researched.
-- **Clarity:** Write clear, concise, and easy-to-understand content.
-- **Formatting:** Use Markdown for formatting. Follow the existing style and structure of the project.
-
-### Code Contributions
-
-- **Code Style:** Follow the coding standards and style guides used in the project.
-- **Testing:** Ensure your code changes do not break existing functionality. Add tests if necessary.
-- **Documentation:** Update documentation to reflect your changes, if applicable.
-
-### Reporting Issues
-
-If you find a bug or have a feature request, please open an issue in the repository. Provide as much detail as possible, including steps to reproduce the issue if applicable.
-
-### Community Engagement
-
-- **Discussions:** Participate in [GitHub Discussions](https://github.com/SingularSource/Discussions) to engage with other contributors and users.
-- **Respect:** Be respectful and considerate in your interactions with others. Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-By contributing to SingularSource, you agree that your contributions will be licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-We appreciate your contributions and efforts to improve SingularSource. Thank you for being part of our community!
-
----
-
-Made with ❤️ by the SingularSource Community
-```
-
-This version includes all necessary sections and details from point 3 onwards in proper Markdown format, ensuring clarity and ease of use for contributors.
+Thank you for contributing!
