@@ -44,9 +44,9 @@ In the vast and ever-evolving world of DevOps, finding accurate and concise info
 
 Dive into the detailed explanations and best practices for various DevOps concepts:
 
-- [DevOps](concepts/devops/overview.md)
+- [DevOps](concepts/devops/ci-cd)
 - [K8s](concepts/kubernetes/overview.md)
-- [Microservices](concepts/microservices/**Introduction.md**)
+- [Microservices](concepts/microservices/overview.md)
 - [Infrastructure as Code](concepts/cloud-computing/overview.md)
 
 ### Contribute
