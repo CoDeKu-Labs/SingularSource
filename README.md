@@ -26,6 +26,12 @@ In the vast and ever-evolving world of DevOps, finding accurate and concise info
   - **How Microservices Communicate?**
     - Microservices communicate using lightweight protocols like HTTP/HTTPS, gRPC, or messaging queues.
     - **We do not keep another article for the same topic or concept.**
+- **Handling Multiple Approaches:** If there are different ways or methods to achieve something, we document all approaches within the same concept, using a numbered format:
+  - **Example:**
+    - **How to Deploy a Kubernetes Cluster:**
+      - **Method 1:** Using kubeadm.
+      - **Method 2:** Using a managed Kubernetes service like GKE or EKS.
+      - **Method 3:** Using kops.
 - **Comprehensive Coverage:** From CI/CD to Infrastructure as Code, we cover a wide range of DevOps concepts.
 - **Expert-Reviewed Content:** Collaborations with industry experts to maintain high standards of quality and reliability.
 - **Open Source:** Fully transparent and open to contributions from anyone.
