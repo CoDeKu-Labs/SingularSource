@@ -58,7 +58,7 @@ We welcome contributions from the community! Here’s how you can get involved:
     ```
 6. **Create a Pull Request:** Open a pull request to the main repository for review.
 
-For detailed contribution guidelines, check out our [CONTRIBUTING.md](CONTRIBUTING.md).
+For detailed contribution guidelines, check out our [/CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Join the Community
 
