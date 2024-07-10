@@ -8,9 +8,9 @@ First off, thank you for considering contributing to our project! It's people li
 
 This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
 
-- **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/[your-repo]/issues).
+- **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/CoDeKu-Labs/SingularSource/issues).
 
-- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/[your-repo]/issues/new). Be sure to include:
+- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/CoDeKu-Labs/SingularSource/issues/new). Be sure to include:
   - A descriptive title and summary.
   - Any relevant logs, screenshots, or links demonstrating the bug.
   - A step-by-step guide to reproduce the bug.
