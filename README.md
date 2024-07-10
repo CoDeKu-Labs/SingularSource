@@ -78,7 +78,7 @@ For detailed contribution guidelines, check out our [CONTRIBUTING.md](CONTRIBUTI
 Engage with other contributors and users in our community discussions:
 
 - [GitHub Discussions](https://github.com/SingularSource/Discussions)
-- [Issue Tracking](https://github.com/SingularSource/Issues)
+- [Issue Tracking](https://github.com/CoDeKu-Labs/SingularSource/issues)
 
 ## License
 
